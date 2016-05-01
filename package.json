@@ -1,0 +1,23 @@
+{
+  "name": "empty-time",
+  "version": "1.0.0",
+  "description": "Sets the time component of a Date object to either 00:00:00.000 or 23:59:59.999",
+  "main": "index.js",
+  "author": {
+    "name": "Alexey Gorokhov",
+    "email": "alexey.gorokhov@icloud.com",
+    "url": ""
+  },
+  "license": "MIT",
+  "keywords": [
+    "date util"
+  ],
+  "homepage": "https://github.com/AlexeyGorokhov/empty-time",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexeyGorokhov/empty-time"
+  },
+  "bugs": {
+    "url": "https://github.com/AlexeyGorokhov/empty-time/issues"
+  }
+}
