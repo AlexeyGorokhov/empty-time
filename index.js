@@ -1,8 +1,6 @@
 'use strict';
 
-module.exports = function () {
-  return new Date();
-};
+module.exports = emptyTime;
 
 function emptyTime (dt) {
   if (!dt instanceof Date) return;

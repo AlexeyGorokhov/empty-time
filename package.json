@@ -1,6 +1,6 @@
 {
   "name": "empty-time",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sets the time component of a Date object to either 00:00:00.000 or 23:59:59.999",
   "main": "index.js",
   "author": {
